@@ -41,9 +41,12 @@ input[type="date"] {
   padding: 8px;
   width: 100%;
   border: 1px solid #ccc;
+  font-size: 14px;
 }
 
 button {
   padding: 8px 12px;
   font-size: 22px;
+  background-color: violet;
+  border: 1px solid blue;
 }
